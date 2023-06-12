@@ -39,6 +39,8 @@ void Func(char* str){
 }
 ```
 
+### Post-increment on a dereferenced pointer
+`*str++`意思是 `*(str++)`
 
 
 # Reference 
